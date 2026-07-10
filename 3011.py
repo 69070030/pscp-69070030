@@ -1,6 +1,6 @@
 """3011"""
 def main():
-    """yayyy"""
+    """yay"""
     c1 = input(str())
     c2 = input(str())
     if c1 == "Red"and c2=="Yellow" or c1 == "Yellow"and c2=="Red":
